@@ -1,4 +1,4 @@
-const launch = require('./packages/launch-editor/')
+const launch = require('./packages/launch-editor/')   
 
 launch(
   'packages/launch-editor/index.js',
